@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1912" viewBox="0 0 1000 1912">
+<rect x="0" y="0" width="1000" height="2050" fill="#ffffff"/>
+<text x="55" y="60" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="30" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">DGS Matematik Günlüğü</text>
+<text x="55" y="92" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#555555">1 Temmuz 2026  |  Sınava kalan gün: 18</text>
+<line x1="55" y1="108" x2="945" y2="108" stroke="#cccccc" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="142" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a56db">Konu: Yüzde Problemleri</text>
+<text x="55" y="190" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">1) Kısa Kural Hatırlatması</text>
+<text x="55" y="224" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Bir sayının yüzde k'sı, o sayı ile aşağıdaki kesrin çarpımıdır:</text>
+<text x="75" y="272.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">a sayısının %k'sı  =</text>
+<text x="318.6" y="272.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> a ×</text>
+<text x="396.14000000000004" y="259.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">k</text>
+<line x1="373.72" y1="266" x2="418.56" y2="266" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="396.14000000000004" y="284.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="55" y="314" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Yüzde artış:</text>
+<text x="205" y="310.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Yeni değer = Eski değer × (1 +</text>
+<text x="569.04" y="297.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">k</text>
+<line x1="547.8" y1="304" x2="590.28" y2="304" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="569.04" y="321.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="598.28" y="310.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">)</text>
+<text x="55" y="376" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Yüzde azalış:</text>
+<text x="205" y="372.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Yeni değer = Eski değer × (1 −</text>
+<text x="569.04" y="359.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">k</text>
+<line x1="547.8" y1="366" x2="590.28" y2="366" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="569.04" y="383.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="598.28" y="372.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">)</text>
+<text x="55" y="432" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">- ÖNEMLİ: Ardışık yüzde değişimlerinde oranlar TOPLANMAZ, ÇARPILIR.</text>
+<line x1="55" y1="478" x2="945" y2="478" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="518" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">2) DGS Tarzı Örnek Soru</text>
+<text x="55" y="554" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir ürünün etiket fiyatı önce %20 artırılıyor. Yeni fiyat üzerinden</text>
+<text x="55" y="580" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yapılan %10'luk indirim sonrası, ürünün son fiyatı ilk fiyatına göre</text>
+<text x="55" y="606" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yüzde kaç artmış ya da azalmıştır?</text>
+<text x="55" y="648" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Çözüm:</text>
+<text x="65" y="682" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 1: Kolaylık için ilk fiyatı 100 TL kabul edelim.</text>
+<text x="65" y="722" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 2: %20 artış sonrası fiyat:</text>
+<text x="85" y="772.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">100 × (1 +</text>
+<text x="233.22" y="759.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">20</text>
+<line x1="210.8" y1="766" x2="255.64000000000001" y2="766" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="233.22" y="784.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="263.64" y="772.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">) = 100 ×</text>
+<text x="400.08" y="759.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">120</text>
+<line x1="377.65999999999997" y1="766" x2="422.49999999999994" y2="766" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="400.08" y="784.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="430.49999999999994" y="772.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = 120 TL</text>
+<text x="65" y="814" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 3: 120 TL üzerinden %10 indirim:</text>
+<text x="85" y="864.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">120 × (1 −</text>
+<text x="233.22" y="851.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">10</text>
+<line x1="210.8" y1="858" x2="255.64000000000001" y2="858" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="233.22" y="876.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="263.64" y="864.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">) = 120 ×</text>
+<text x="400.08" y="851.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">90</text>
+<line x1="377.65999999999997" y1="858" x2="422.49999999999994" y2="858" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="400.08" y="876.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="430.49999999999994" y="864.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = 108 TL</text>
+<text x="65" y="906" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 4: Fark ve yüzde değişim:</text>
+<text x="85" y="956.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">108 − 100 = 8      </text>
+<text x="339.24" y="943.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<line x1="316.82" y1="950" x2="361.65999999999997" y2="950" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="339.24" y="968.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="369.65999999999997" y="956.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × 100 = %8</text>
+<text x="65" y="994" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Cevap: Fiyat, ilk değerine göre %8 ARTMIŞTIR.</text>
+<line x1="55" y1="1044" x2="945" y2="1044" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1084" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">3) Sınavda Bu Soru Tipini Görünce Strateji</text>
+<text x="55" y="1120" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İpucu kelimeler: "önce ... sonra", "yeni fiyat üzerinden", "ardından",</text>
+<text x="55" y="1146" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">"artırılıp azaltılıyor" -&gt; bunlar ARDIŞIK yüzde değişimini gösterir.</text>
+<text x="55" y="1180" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İlk adım: Başlangıç değerini HER ZAMAN 100 (ya da 1) kabul et;</text>
+<text x="55" y="1206" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">işlemler böylece kesirsiz ve kolay yürür.</text>
+<text x="55" y="1246" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Genel formül:</text>
+<text x="75" y="1294.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Son değer = Başlangıç × (1 ±</text>
+<text x="416.72" y="1281.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">k1</text>
+<line x1="395.48" y1="1288" x2="437.96000000000004" y2="1288" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="416.72" y="1305.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="445.96000000000004" y="1294.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">) × (1 ±</text>
+<text x="564.48" y="1281.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">k2</text>
+<line x1="543.24" y1="1288" x2="585.72" y2="1288" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="564.48" y="1305.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="593.72" y="1294.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">) × ...</text>
+<text x="55" y="1332" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Sonda yüzde değişimi bulmak için:</text>
+<text x="75" y="1380.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Yüzde değişim =</text>
+<text x="338.6" y="1367.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Son − Başlangıç</text>
+<line x1="250.4" y1="1374" x2="426.8" y2="1374" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="338.6" y="1391.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Başlangıç</text>
+<text x="434.8" y="1380.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × 100</text>
+<text x="55" y="1406" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">UYARI: %20 artış + %10 azalış, ASLA %10 artış anlamına gelmez</text>
+<text x="55" y="1432" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">(oranlar doğrudan toplanamaz, üstteki gibi çarpılarak hesaplanır).</text>
+<line x1="55" y1="1478" x2="945" y2="1478" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1518" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">4) Sıra Sende - Pratik Soru</text>
+<text x="55" y="1554" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir mağazada bir ürünün fiyatı önce %25 indirime giriyor. İndirimli</text>
+<text x="55" y="1580" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">fiyat üzerinden yapılan %20'lik ek indirim sonrasında, ürünün son</text>
+<text x="55" y="1606" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">fiyatı ilk fiyatına göre yüzde kaç azalmıştır?</text>
+<text x="55" y="1646" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">(Kendi çözümünü tamamlamadan aşağıdaki cevaba bakma!)</text>
+<line x1="55" y1="1706" x2="945" y2="1706" stroke="#999999" stroke-width="2" stroke-linecap="round"/>
+<rect x="55" y="1718" width="890" height="90" fill="#f6f6f6" stroke="#cccccc" stroke-width="1" rx="8"/>
+<text x="75" y="1752" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">CEVAP (spoiler):</text>
+<text x="75" y="1797.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">100 × 0,75 × 0,80 = 60   →   son fiyat, ilk fiyata göre %40 azalmıştır.</text>
+<text x="55" y="1872" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">Yarınki konu: Hız - Zaman - Yol</text>
+</svg>
