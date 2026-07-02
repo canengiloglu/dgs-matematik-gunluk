@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2593" viewBox="0 0 1000 2593">
+<rect x="0" y="0" width="1000" height="2593" fill="#ffffff"/>
+<text x="55" y="60" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="30" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">DGS Matematik Günlüğü</text>
+<text x="55" y="92" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#555555">2 Temmuz 2026  |  Sınava kalan gün: 17</text>
+<line x1="55" y1="108" x2="945" y2="108" stroke="#cccccc" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="142" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a56db">Konu: Hız - Zaman - Yol</text>
+<text x="55" y="190" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">1) Kısa Kural Hatırlatması</text>
+<text x="55" y="224" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Temel formül:</text>
+<text x="85" y="266.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Yol = Hız × Zaman</text>
+<text x="55" y="290" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Buradan türeyen formüller:</text>
+<text x="85" y="340.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Hız =</text>
+<text x="186.10000000000002" y="327.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Yol</text>
+<line x1="151.9" y1="334" x2="220.3" y2="334" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="186.10000000000002" y="352.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Zaman</text>
+<text x="228.3" y="340.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">         Zaman =</text>
+<text x="447.2" y="327.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Yol</text>
+<line x1="424.78" y1="334" x2="469.61999999999995" y2="334" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="447.2" y="352.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Hız</text>
+<text x="55" y="370" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Aynı yönde hareket eden iki cismin yaklaşma/uzaklaşma hızı, hızların</text>
+<text x="55" y="396" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  FARKINA eşittir (örn. biri diğerine yetişiyorsa).</text>
+<text x="55" y="430" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Zıt yönde (karşılıklı ya da birbirinden uzaklaşan) hareket eden iki</text>
+<text x="55" y="456" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  cismin yaklaşma/uzaklaşma hızı, hızların TOPLAMINA eşittir.</text>
+<text x="55" y="496" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">- ÖNEMLİ: Ortalama hız, hızların aritmetik ortalaması DEĞİLDİR:</text>
+<text x="85" y="546.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#b3261e">Ortalama Hız =</text>
+<text x="327.46" y="533.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#b3261e">Toplam Yol</text>
+<line x1="257.91999999999996" y1="540" x2="397.0" y2="540" stroke="#b3261e" stroke-width="2" stroke-linecap="round"/>
+<text x="327.46" y="558.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#b3261e">Toplam Süre</text>
+<line x1="55" y1="576" x2="945" y2="576" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="616" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">2) DGS Tarzı Örnek Soru</text>
+<text x="55" y="652" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Ayşe, saat 08:00'de bir noktadan 60 km/sa sabit hızla yola çıkıyor.</text>
+<text x="55" y="678" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Deniz ise aynı noktadan, aynı yönde, saat 09:00'da 90 km/sa sabit</text>
+<text x="55" y="704" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">hızla Ayşe'nin peşinden hareket ediyor. Deniz, Ayşe'ye saat kaçta</text>
+<text x="55" y="730" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yetişir?</text>
+<text x="75" y="770" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A)  10:00</text>
+<text x="75" y="795" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">B)  09:24</text>
+<text x="75" y="820" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">C)  11:00</text>
+<text x="75" y="845" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D)  12:00</text>
+<text x="75" y="870" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">E)  13:30</text>
+<text x="55" y="911" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Çözüm:</text>
+<text x="65" y="945" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 1: Deniz yola çıkana kadar (08:00-09:00) Ayşe 1 saat yol aldı:</text>
+<text x="85" y="995.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">60 km/sa × 1 saat = 60 km  (baş mesafesi)</text>
+<text x="65" y="1021" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 2: Aynı yönde gittikleri için aradaki fark, hız FARKI kadar azalır:</text>
+<text x="85" y="1071.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">90 − 60 = 30 km/sa  (yaklaşma hızı)</text>
+<text x="65" y="1097" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 3: 60 km'lik farkı kapatmak için gereken süre:</text>
+<text x="85" y="1147.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">t =</text>
+<text x="144.87" y="1134.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">60</text>
+<line x1="128.34" y1="1141" x2="161.4" y2="1141" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="144.87" y="1159.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">30</text>
+<text x="169.4" y="1147.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">= 2 saat</text>
+<text x="65" y="1173" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 4: Deniz, Ayşe'ye Deniz'in çıkış saatinden 2 saat sonra yetişir:</text>
+<text x="85" y="1223.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">09:00 + 2 saat = 11:00</text>
+<text x="65" y="1247" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Cevap: C) 11:00</text>
+<text x="55" y="1287" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Şıkların tuzak analizi:</text>
+<text x="75" y="1315" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">A) 10:00</text>
+<text x="180" y="1315" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — 2 saatlik süre, Deniz'in değil Ayşe'nin çıkış saati olan</text>
+<text x="180" y="1338" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">08:00'e eklenmiş (referans saat karıştırılmış).</text>
+<text x="75" y="1361" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">B) 09:24</text>
+<text x="180" y="1361" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — Aynı yönde giden araçlarda hızlar TOPLANARAK (60+90=150)</text>
+<text x="180" y="1384" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yaklaşma hızı bulunmuş; 60/150=0,4 saat=24 dk hesaplanmış.</text>
+<text x="75" y="1407" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">D) 12:00</text>
+<text x="180" y="1407" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — Baş mesafesi (60 km), Ayşe'nin değil Deniz'in hızıyla</text>
+<text x="180" y="1430" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">hesaplanmış (90 km sanılmış): 90/30=3 saat.</text>
+<text x="75" y="1453" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">E) 13:30</text>
+<text x="180" y="1453" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — Hem baş mesafe hem hız farkı yanlış alınıp iki hata</text>
+<text x="180" y="1476" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">birlikte yapılmış.</text>
+<line x1="55" y1="1519" x2="945" y2="1519" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1559" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">3) Sınavda Bu Soru Tipini Görünce Strateji</text>
+<text x="55" y="1591" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İpucu kelimeler: "peşinden", "yetişir", "aynı anda çıkıp", "kaç saat/dakika</text>
+<text x="55" y="1617" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">sonra buluşur", farklı saatte yola çıkma -&gt; baş mesafeli hareket sorusu.</text>
+<text x="55" y="1651" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İlk adım: Kısa bir zaman çizgisi/tablo çiz — her cismin çıkış saatini,</text>
+<text x="55" y="1677" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">hızını ve yönünü not et.</text>
+<text x="55" y="1711" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Sonra: Aynı yönde ise hız FARKI, zıt yönde ise hız TOPLAMI ile</text>
+<text x="55" y="1737" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">"yaklaşma/uzaklaşma hızı"nı bul. Formül:</text>
+<text x="85" y="1787.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Süre =</text>
+<text x="250.89" y="1774.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Aradaki Mesafe</text>
+<line x1="163.68" y1="1781" x2="338.1" y2="1781" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="250.89" y="1799.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Yaklaşma Hızı</text>
+<line x1="55" y1="1815" x2="945" y2="1815" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1855" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">4) Öğrencilerin En Sık Düştüğü Tuzak</text>
+<text x="55" y="1887" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Ortalama Hız Tuzağı: Yolun farklı kısımları farklı hızlarla alındığında</text>
+<text x="55" y="1913" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">öğrenciler hızların aritmetik ortalamasını</text>
+<text x="549.36" y="1913.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">V1 + V2</text>
+<line x1="508.21999999999997" y1="1919" x2="590.5" y2="1919" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="549.36" y="1935.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<text x="55" y="1953" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">alıyor. Bu SADECE süreler eşitse doğrudur; süreler farklıysa (ki genelde</text>
+<text x="55" y="1979" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">farklıdır) toplam yol/toplam süre kullanılmalıdır.</text>
+<text x="55" y="2013" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Nasıl fark edersin: Soruda "yolun x km'lik kısmını V1, kalanını V2 hızla</text>
+<text x="55" y="2039" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">gitti" gibi FARKLI mesafe-hız eşleşmeleri varsa, hızları ortalama alma</text>
+<text x="55" y="2065" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">refleksini bastır: her parçanın süresini ayrı hesapla, süreleri topla,</text>
+<text x="55" y="2091" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">toplam yolu topla, sonra böl.</text>
+<line x1="55" y1="2131" x2="945" y2="2131" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="2171" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">5) Sıra Sende - Pratik Soru</text>
+<text x="55" y="2203" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir otobüs, A kentinden B kentine 200 km'lik yolu 100 km/sa sabit</text>
+<text x="55" y="2229" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">hızla gidiyor. Dönüşte ise yol çalışması nedeniyle ilk 100 km'yi</text>
+<text x="55" y="2255" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">50 km/sa, kalan 100 km'yi ise 100 km/sa hızla alıyor. Otobüsün toplam</text>
+<text x="55" y="2281" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">gidiş-dönüş yolculuğundaki ortalama hızı kaç km/sa'dir?</text>
+<text x="55" y="2321" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">(Kendi çözümünü tamamlamadan aşağıdaki cevaba bakma!)</text>
+<line x1="55" y1="2367" x2="945" y2="2367" stroke="#999999" stroke-width="2" stroke-linecap="round"/>
+<rect x="55" y="2385" width="890" height="130" fill="#f6f6f6" stroke="#cccccc" stroke-width="1" rx="8"/>
+<text x="75" y="2419" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">CEVAP (spoiler):</text>
+<text x="75" y="2453" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Gidiş: 200/100 = 2 saat.  Dönüş: 100/50 = 2 saat + 100/100 = 1 saat = 3 saat.</text>
+<text x="75" y="2479" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Toplam yol = 400 km, toplam süre = 5 saat  →  Ortalama hız = 400/5 = 80 km/sa.</text>
+<text x="55" y="2543" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">Yarınki konu: İşçi / Havuz Problemleri</text>
+</svg>
