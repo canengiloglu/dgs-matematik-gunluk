@@ -9,9 +9,18 @@ Her gun saat 14:00'te bir rutin calisir ve `gunluk/[YYYY-AA-GG].svg` dosyasini
 uretir. Dosya icinde:
 
 1. Konunun kisa kural hatirlatmasi
-2. DGS tarzi bir ornek soru + adim adim cozum
+2. DGS tarzi bir ornek soru (gercek sinav zorlugunda, en az 2 kavrami
+   birlikte test eden) + adim adim cozum + OSYM tarzi 5 secenek (A-E) ve
+   yanlis seceneklerin neden yanlis oldugunun aciklamasi (yanlis okuma,
+   islem hatasi, eksik adim gibi)
 3. Sinavda bu soru tipini gorunce izlenecek strateji (ipucu kelimeler, formul, ilk adim)
-4. Kendi cozmen icin bir pratik soru (cevabi ayrica, en altta belirtilir)
+4. O konuda ogrencilerin en sik dustugu tuzak: spesifik bir hata kalibi ve
+   onu nasil fark edecegi
+5. Kendi cozmen icin, ornekle AYNI zorlukta bir pratik soru (cevabi ayrica,
+   en altta belirtilir)
+
+**Zorluk:** Sorular gercek DGS sinav zorlugunda olmali; tek adimli basit
+hesap sorusu OLMAMALI.
 
 **Kural:** Butun kesirler, denklemler, oranlar ve uslu ifadeler SVG icinde
 gorsel olarak cizilir (pay/payda + cizgi vb.) — asla "1/5" gibi slash ile
