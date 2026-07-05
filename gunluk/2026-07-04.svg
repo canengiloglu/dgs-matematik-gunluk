@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2595" viewBox="0 0 1000 2595">
+<rect x="0" y="0" width="1000" height="2595" fill="#ffffff"/>
+<text x="55" y="60" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="30" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">DGS Matematik Günlüğü</text>
+<text x="55" y="92" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#555555">4 Temmuz 2026  |  Sınava kalan gün: 15</text>
+<line x1="55" y1="108" x2="945" y2="108" stroke="#cccccc" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="142" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a56db">Konu: Oran - Orantı</text>
+<text x="55" y="190" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">1) Kısa Kural Hatırlatması</text>
+<text x="55" y="226" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- a:b oranı, a sayısının b sayısına bölünmesiyle elde edilen kesre eşittir:</text>
+<text x="55" y="271.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">a : b =</text>
+<text x="156.09999999999997" y="258.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a</text>
+<line x1="145.45999999999998" y1="265" x2="166.73999999999998" y2="265" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="156.09999999999997" y="283.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">b</text>
+<text x="55" y="304" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Oranı verilen iki (veya daha çok) sayı, ORTAK BİR ÇARPAN (k) ile ifade edilir:</text>
+<text x="55" y="330" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  a:b = 5:3 ise  a = 5k , b = 3k  (k &gt; 0, gerçek sayılar)</text>
+<text x="55" y="362" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Doğru orantı: x artarken y de AYNI ORANDA artar; oran sabit kalır:</text>
+<text x="95.64" y="394.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">x</text>
+<line x1="85" y1="401" x2="106.28" y2="401" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="95.64" y="419.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">y</text>
+<text x="114.28" y="407.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = sabit</text>
+<text x="55" y="434" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Ters orantı: x artarken y AYNI ORANDA azalır; çarpım sabit kalır:</text>
+<text x="85" y="460" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">x · y = sabit</text>
+<text x="55" y="490" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">- ÖNEMLİ: Bir orana sabit bir sayı eklenip çıkarılırsa oran DEĞİŞİR:</text>
+<text x="95.64" y="522.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#b3261e">a</text>
+<line x1="85" y1="529" x2="106.28" y2="529" stroke="#b3261e" stroke-width="2" stroke-linecap="round"/>
+<text x="95.64" y="547.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#b3261e">b</text>
+<text x="114.28" y="535.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#b3261e"> oranı ile </text>
+<text x="286.06" y="522.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#b3261e">a + n</text>
+<line x1="251.86" y1="529" x2="320.26" y2="529" stroke="#b3261e" stroke-width="2" stroke-linecap="round"/>
+<text x="286.06" y="547.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#b3261e">b + n</text>
+<text x="328.26" y="535.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#b3261e"> oranı GENELDE eşit DEĞİLDİR.</text>
+<line x1="55" y1="572" x2="945" y2="572" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="612" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">2) DGS Tarzı Örnek Soru (Oran-Orantı + Denklem Kurma)</text>
+<text x="55" y="648" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir bahçedeki elma ve armut ağaçlarının sayılarının oranı 5:3'tür. Bu</text>
+<text x="55" y="674" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">bahçeye 8 tane daha armut ağacı dikilirse, elma ve armut ağaçlarının</text>
+<text x="55" y="700" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">sayılarının oranı 5:4 olacaktır. Buna göre, dikim yapılmadan ÖNCE</text>
+<text x="55" y="726" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">bahçedeki toplam ağaç sayısı kaçtır?</text>
+<text x="55" y="762" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 24      B) 40      C) 56      D) 64      E) 72</text>
+<text x="55" y="804" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Çözüm:</text>
+<text x="65" y="838" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 1: Ortak çarpanı k dersek: Elma = 5k, Armut = 3k.</text>
+<text x="65" y="864" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 2: 8 armut ağacı dikilince armut sayısı (3k + 8) olur ve yeni oran:</text>
+<text x="125.09" y="896.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5k</text>
+<line x1="85" y1="903" x2="165.18" y2="903" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="125.09" y="921.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3k + 8</text>
+<text x="173.18" y="909.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="227.16000000000003" y="896.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="216.52" y1="903" x2="237.8" y2="903" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="227.16000000000003" y="921.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<text x="65" y="942" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 3: İçler dışlar çarpımı (çapraz çarpma):</text>
+<text x="85" y="968" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">5k × 4 = 5 × (3k + 8)  →  20k = 15k + 40  →  5k = 40  →  k = 8</text>
+<text x="65" y="994" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 4: Başlangıç değerlerini bul ve TOPLA (soru dikim ÖNCESİ toplamı</text>
+<text x="65" y="1020" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">soruyor):</text>
+<text x="85" y="1046" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Elma = 5×8 = 40 ,  Armut = 3×8 = 24  →  Toplam = 40 + 24 = 64</text>
+<text x="55" y="1080" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Cevap: D) 64</text>
+<text x="55" y="1126" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Neden diğer şıklar yanlış (ÖSYM tarzı çeldiriciler):</text>
+<text x="65" y="1152" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 24  →  Sadece armut ağacı sayısı (3k=24) toplam sanılmış; soru "toplam"</text>
+<text x="65" y="1176" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        istiyor, tek türü değil (yanlış okuma, eksik adım).</text>
+<text x="65" y="1200" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">B) 40  →  Sadece elma ağacı sayısı (5k=40) toplam sanılmış; aynı okuma</text>
+<text x="65" y="1224" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        hatasının diğer yönü.</text>
+<text x="65" y="1248" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">C) 56  →  Doğru denklem kurulmuş (5k=40) ama bölme işleminde hata</text>
+<text x="65" y="1272" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        yapılıp k=7 bulunmuş (40÷5 yerine 40÷~5,7 gibi dikkatsiz bölüm) →</text>
+<text x="65" y="1296" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        toplam = 8×7 = 56 (işlem hatası).</text>
+<text x="65" y="1320" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">E) 72  →  Toplam, dikim SONRASI için hesaplanmış: 40 elma + 32 armut</text>
+<text x="65" y="1344" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        (24+8) = 72. Soru dikim ÖNCESİNİ soruyor; aşama karıştırılmış.</text>
+<line x1="55" y1="1384" x2="945" y2="1384" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1424" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">3) Sınavda Bu Soru Tipini Görünce Strateji</text>
+<text x="55" y="1460" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İpucu kelimeler: "sayılarının oranı ... dir", "... eklenirse ya da çıkarılırsa",</text>
+<text x="55" y="1486" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">"oran ... olur" → bunlar oranın SABİT olmadığını, bir değişiklik sonrası</text>
+<text x="55" y="1512" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YENİ bir oran oluştuğunu gösterir; iki farklı orantı denklemi kurulmalıdır.</text>
+<text x="55" y="1548" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İlk adım: Ortak çarpanı k olarak tanımla (a=5k, b=3k gibi); değişiklik</text>
+<text x="55" y="1574" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">sonrası durumu AYRI bir kesir olarak yaz, çapraz çarpma (içler=dışlar)</text>
+<text x="55" y="1600" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">ile k'yı bul; SONRA sorunun tam olarak neyi istediğine (toplam mı, tek</text>
+<text x="55" y="1626" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">değişken mi, öncesi mi sonrası mı) dikkat et.</text>
+<text x="55" y="1662" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Genel formül (çapraz çarpma):</text>
+<text x="95.64" y="1694.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a</text>
+<line x1="85" y1="1701" x2="106.28" y2="1701" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="95.64" y="1719.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">b</text>
+<text x="114.28" y="1707.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="168.26" y="1694.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">c</text>
+<line x1="157.62" y1="1701" x2="178.9" y2="1701" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="168.26" y="1719.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">d</text>
+<text x="186.9" y="1707.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  ⟺  a × d = b × c</text>
+<line x1="55" y1="1756" x2="945" y2="1756" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1796" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">4) Öğrencilerin En Sık Düştüğü Tuzak</text>
+<text x="55" y="1832" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Hata kalıbı: Oran değiştiğinde, öğrenci k ortak çarpanıyla YENİ bir</text>
+<text x="55" y="1858" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">denklem kurmak yerine, sadece verilen sayıya doğrudan ekleme ya da</text>
+<text x="55" y="1884" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">çıkarma yaparak eski oranın hâlâ geçerli olduğunu VARSAYAR. Örneğin</text>
+<text x="55" y="1910" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">a:b = 5:3 iken şu yanlış varsayım kurulur:</text>
+<text x="115.6" y="1943.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a + n</text>
+<line x1="85" y1="1949" x2="146.2" y2="1949" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="115.6" y="1965.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">b + n</text>
+<text x="154.2" y="1954.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="203.34" y="1943.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="193.82" y1="1949" x2="212.85999999999999" y2="1949" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="203.34" y="1965.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="220.85999999999999" y="1954.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  (bu YANLIŞTIR, oran genelde bozulur).</text>
+<text x="55" y="1988" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Nasıl fark edilir: Soruda "... eklenirse ya da çıkarılırsa yeni oran ... olur"</text>
+<text x="55" y="2014" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">ifadesini gördüğünde, eski oranı bir kenara bırak; k'yı tanımladıktan</text>
+<text x="55" y="2040" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">sonra YENİ durumu sıfırdan bir kesir olarak yaz ve çapraz çarpma ile</text>
+<text x="55" y="2066" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">çöz. İki oranı asla "aynı k ile otomatik eşit kalır" diye varsayma.</text>
+<line x1="55" y1="2108" x2="945" y2="2108" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="2148" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">5) Sıra Sende - Pratik Soru</text>
+<text x="55" y="2184" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir çiftlikte koyun ve keçi sayılarının oranı 7:4'tür. Çiftlikten 16 koyun</text>
+<text x="55" y="2210" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">satıldıktan sonra koyun ve keçi sayılarının oranı 3:4 oluyor. Buna göre,</text>
+<text x="55" y="2236" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">satıştan ÖNCE çiftlikte toplam kaç hayvan vardı?</text>
+<text x="55" y="2268" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 32      B) 36      C) 44      D) 48      E) 60</text>
+<text x="55" y="2304" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">(Kendi çözümünü tamamlamadan aşağıdaki cevaba bakma!)</text>
+<line x1="55" y1="2360" x2="945" y2="2360" stroke="#999999" stroke-width="2" stroke-linecap="round"/>
+<rect x="55" y="2372" width="890" height="168" fill="#f6f6f6" stroke="#cccccc" stroke-width="1" rx="8"/>
+<text x="65" y="2406" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">CEVAP (spoiler):</text>
+<text x="65" y="2432" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Koyun = 7k , Keçi = 4k</text>
+<text x="102.50999999999999" y="2461.575" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">7k − 16</text>
+<line x1="65" y1="2467" x2="140.01999999999998" y2="2467" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="102.50999999999999" y="2481.725" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4k</text>
+<text x="148.01999999999998" y="2472.425" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="193.52999999999997" y="2461.575" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="184.84999999999997" y1="2467" x2="202.20999999999998" y2="2467" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="193.52999999999997" y="2481.725" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<text x="210.20999999999998" y="2472.425" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  →  28k − 64 = 12k  →  16k = 64  →  k = 4</text>
+<text x="65" y="2496" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Koyun = 28 , Keçi = 16 , Toplam = 44  →  Doğru şık: C) 44</text>
+<text x="55" y="2560" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">Yarınki konu: Rasyonel Sayılar</text>
+</svg>
