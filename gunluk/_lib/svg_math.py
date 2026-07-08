@@ -62,7 +62,7 @@ class Canvas:
         self.elements.append(
             f'<text x="{x}" y="{y}" font-family="{family}" font-size="{size}" '
             f'font-weight="{weight}" font-style="{style_font}" '
-            f'text-anchor="{anchor}" fill="{fill}">{esc}</text>'
+            f'text-anchor="{anchor}" fill="{fill}" xml:space="preserve">{esc}</text>'
         )
 
     def text_width(self, s, size):
