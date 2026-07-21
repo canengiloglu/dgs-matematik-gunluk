@@ -1,7 +1,9 @@
 # DGS Matematik Gunlugu
 
 DGS matematik sinavina hazirlik icin her gun otomatik uretilen konu ozetleri.
-Sinav tarihi: **19 Temmuz 2026**.
+Sinav tarihi: **19 Temmuz 2026** (gecti). Rutin, sinav sonrasi da pekistirme
+turu olarak calismaya devam ediyor; konu rotasyonu takvime gore bastan
+donmeye devam eder.
 
 ## Nasil calisiyor
 
