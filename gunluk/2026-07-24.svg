@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2461" viewBox="0 0 1000 2461">
+<rect x="0" y="0" width="1000" height="2461" fill="#ffffff"/>
+<text x="55" y="60" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="30" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">DGS Matematik Günlüğü</text>
+<text x="55" y="92" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#555555">24 Temmuz 2026  |  ⚠ Sınav tarihi geçti (19 Temmuz 2026, 5 gün önce)</text>
+<line x1="55" y1="108" x2="945" y2="108" stroke="#cccccc" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="142" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a56db">Konu: Oran - Orantı</text>
+<text x="55" y="190" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">1) Kısa Kural Hatırlatması</text>
+<text x="55" y="226" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- a:b oranı, a sayısının b sayısına bölünmesiyle elde edilen kesre eşittir:</text>
+<text x="55" y="276.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">a : b =</text>
+<text x="156.09999999999997" y="263.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a</text>
+<line x1="145.45999999999998" y1="270" x2="166.73999999999998" y2="270" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="156.09999999999997" y="288.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">b</text>
+<text x="55" y="301" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Oranı verilen parçalar ORTAK BİR ÇARPAN (k) ile ifade edilir:</text>
+<text x="55" y="327" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  a:b = 3:7 ise  a = 3k , b = 7k  (k &gt; 0)</text>
+<text x="55" y="359" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Yüzde de bir ORANDIR: bir sayının %p'si demek, o sayı ile şu kesrin</text>
+<text x="55" y="415.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">çarpımı demektir:  %p =</text>
+<text x="356.36" y="402.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">p</text>
+<line x1="333.94" y1="409" x2="378.78" y2="409" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="356.36" y="427.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="55" y="440" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Oran + yüzde birlikte: parçalar k ile yazılır, sonra YÜZDE BİLGİSİ</text>
+<text x="55" y="466" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  VERİLEN parçanın k'lı ifadesi üzerinden denklem kurulur.</text>
+<text x="55" y="498" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">- ÖNEMLİ: Yüzde hangi parçaya (a mı, b mi, toplam mı) aitse SADECE ona</text>
+<text x="55" y="524" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">  uygulanır; parçayı karıştırmak en sık yapılan hatadır.</text>
+<line x1="55" y1="558" x2="945" y2="558" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="598" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">2) DGS Tarzı Örnek Soru (Oran-Orantı + Yüzde)</text>
+<text x="55" y="634" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir fabrikada üretilen A ve B tipi ürünlerin sayılarının oranı 3:7'dir.</text>
+<text x="55" y="660" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">B tipi ürünlerin %20'si defolu çıkmıştır ve (A tipinde hiç defo yoktur)</text>
+<text x="55" y="686" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">toplam defolu ürün sayısı 42'dir. Buna göre, fabrikada üretilen A tipi</text>
+<text x="55" y="712" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">ürün sayısı kaçtır?</text>
+<text x="55" y="748" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 60      B) 63      C) 90      D) 210      E) 300</text>
+<text x="55" y="790" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Çözüm:</text>
+<text x="65" y="824" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 1: A:B = 3:7 olduğundan ortak çarpan k: A = 3k , B = 7k.</text>
+<text x="65" y="850" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 2: "B tipinin %20'si defolu" → defolu B sayısı = %20'nin B ile</text>
+<text x="65" y="876" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">çarpımıdır. %20 kesri sadeleşince:</text>
+<text x="107.42" y="913.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">20</text>
+<line x1="85" y1="920" x2="129.84" y2="920" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="107.42" y="938.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="137.84" y="926.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="191.82" y="913.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="181.18" y1="920" x2="202.46" y2="920" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="191.82" y="938.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="65" y="951" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 3: Kurulan denklem (defolu sayı = 42):</text>
+<text x="95.64" y="988.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="85" y1="995" x2="106.28" y2="995" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="95.64" y="1013.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="114.28" y="1001.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × 7k = 42</text>
+<text x="65" y="1026" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">→  7k = 42 × 5 = 210  →  k = 30</text>
+<text x="65" y="1060" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 4: A = 3k = 3 × 30 = 90.</text>
+<text x="55" y="1094" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Cevap: C) 90</text>
+<text x="55" y="1140" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Neden diğer şıklar yanlış (ÖSYM tarzı çeldiriciler):</text>
+<text x="65" y="1166" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 60  →  İşlem hatası: 7k = 210 bulunduktan sonra k, 7'ye değil</text>
+<text x="65" y="1190" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        dikkatsizce 3,5'e bölünmüş (210 ÷ 3,5 = 60) → yanlış k.</text>
+<text x="65" y="1214" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">B) 63  →  Yanlış okuma: "%20'si defolu" ifadesi sadece B'ye değil</text>
+<text x="65" y="1238" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        TOPLAM üretime (A+B=10k) ait sanılmış: (1/5)×10k=42 → k=21,</text>
+<text x="65" y="1262" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        A=3×21=63.</text>
+<text x="65" y="1286" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D) 210  →  Eksik adım / karıştırma: k=30 doğru bulunmuş ama soru A</text>
+<text x="65" y="1310" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        tipini sorarken yanlışlıkla B tipi (7k=210) yazılmış.</text>
+<text x="65" y="1334" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">E) 300  →  Yanlış okuma: soru "toplam üretim" (A+B=10k=300)</text>
+<text x="65" y="1358" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">        soruyormuş gibi okunmuş; oysa sadece A tipi soruluyor.</text>
+<line x1="55" y1="1392" x2="945" y2="1392" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1432" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">3) Sınavda Bu Soru Tipini Görünce Strateji</text>
+<text x="55" y="1468" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İpucu kelimeler: "sayılarının oranı ...dir", "...'nin %p'si ... kadardır",</text>
+<text x="55" y="1494" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">"sadece ... tipinde/kısmında" → bu son ifade, yüzdenin sadece BELİRLİ</text>
+<text x="55" y="1520" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">bir parçaya ait olduğunu, diğerine karıştırılmaması gerektiğini gösterir.</text>
+<text x="55" y="1556" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İlk adım: Önce yüzdenin HANGİ parçaya ait olduğunu netleştir (soruyu</text>
+<text x="55" y="1582" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">tekrar oku), sonra ortak çarpanı k olarak tanımla (a=mk, b=nk), sonra</text>
+<text x="55" y="1608" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yüzde bilgisini SADECE ilgili parça üzerinden denklem hâline getir.</text>
+<text x="55" y="1644" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Genel formül:</text>
+<text x="85" y="1694.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">sayının %p'si =</text>
+<text x="292.12" y="1681.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">p</text>
+<line x1="269.7" y1="1688" x2="314.53999999999996" y2="1688" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="292.12" y="1706.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">100</text>
+<text x="322.53999999999996" y="1694.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × sayı</text>
+<line x1="55" y1="1719" x2="945" y2="1719" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1759" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">4) Öğrencilerin En Sık Düştüğü Tuzak</text>
+<text x="55" y="1795" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Hata kalıbı: Soruda birden çok parça (A tipi, B tipi, toplam gibi) varken,</text>
+<text x="55" y="1821" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">öğrenci yüzde cümlesindeki "kimin %'si" sorusunu atlar ve yüzdeyi ilk</text>
+<text x="55" y="1847" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">aklına gelen ya da en son okuduğu sayıya rastgele uygular.</text>
+<text x="55" y="1883" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Nasıl fark edilir: "sadece ... tipinde/kısmında" ya da "diğerinde ...</text>
+<text x="55" y="1909" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yoktur" gibi sınırlayıcı ifadeleri gördüğünde hemen altını çiz; bu,</text>
+<text x="55" y="1935" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yüzdenin SADECE o parçaya ait olduğunu, toplam üzerinden hesap</text>
+<text x="55" y="1961" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YAPILMAMASI gerektiğini kanıtlar.</text>
+<line x1="55" y1="2001" x2="945" y2="2001" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="2041" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">5) Sıra Sende - Pratik Soru</text>
+<text x="55" y="2077" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir kırtasiyede satılan kalem ve defter sayılarının oranı 5:9'dur.</text>
+<text x="55" y="2103" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Defterlerin %30'u indirimli satılmıştır (kalemlerde indirim yoktur) ve</text>
+<text x="55" y="2129" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">indirimli satılan defter sayısı 54'tür. Buna göre, kırtasiyede satılan</text>
+<text x="55" y="2155" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">kalem sayısı kaçtır?</text>
+<text x="55" y="2187" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 30      B) 90      C) 100      D) 180      E) 216</text>
+<text x="55" y="2219" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">(Kendi çözümünü tamamlamadan aşağıdaki cevaba bakma!)</text>
+<line x1="55" y1="2259" x2="945" y2="2259" stroke="#999999" stroke-width="2" stroke-linecap="round"/>
+<rect x="55" y="2271" width="890" height="130" fill="#f6f6f6" stroke="#cccccc" stroke-width="1" rx="8"/>
+<text x="65" y="2295" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">CEVAP (spoiler):</text>
+<text x="65" y="2319" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Defter = 9k , Kalem = 5k</text>
+<text x="98.485" y="2353.575" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="85" y1="2359" x2="111.97" y2="2359" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="98.485" y="2373.725" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">10</text>
+<text x="119.97" y="2364.425" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × 9k = 54</text>
+<text x="65" y="2385" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">27k = 540  →  k = 20  →  Kalem = 5 × 20 = 100  →  Doğru şık: C) 100</text>
+<text x="55" y="2431" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">Yarınki konu: Rasyonel Sayılar</text>
+</svg>
