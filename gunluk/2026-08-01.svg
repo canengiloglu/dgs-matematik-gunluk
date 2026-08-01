@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="4523" viewBox="0 0 1000 4523">
+<rect x="0" y="0" width="1000" height="4523" fill="#ffffff"/>
+<text x="55" y="0" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="30" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">DGS Matematik Günlüğü</text>
+<text x="55" y="32" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#555555">1 Ağustos 2026  |  19 Temmuz 2026 sınavı geçti — konu tekrar rotasyonu (2. tur) devam ediyor</text>
+<line x1="55" y1="48" x2="945" y2="48" stroke="#cccccc" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="82" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a56db">Konu: İşçi / Havuz Problemleri (rotasyon 2. tur)</text>
+<text x="55" y="122" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">1) Kısa Kural Hatırlatması</text>
+<text x="55" y="156" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Temel oran: bir iş/havuz tek başına t birimde (gün/saat) bitiyorsa, 1 birimde</text>
+<text x="55" y="182" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  yapılan iş oranı:</text>
+<text x="85" y="284.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Oran =</text>
+<text x="174.32" y="271.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="163.68" y1="278" x2="184.96" y2="278" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="174.32" y="296.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">t</text>
+<text x="55" y="322" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Birden fazla işçi/musluk AYNI ANDA çalışırsa oranlar TOPLANIR (dolduran musluk +,</text>
+<text x="55" y="348" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  boşaltan gider −).</text>
+<text x="55" y="374" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- ZİNCİRLEME ORAN (3 veya daha çok işçi/musluk): 'A, B'nin k katı; B de C'nin m</text>
+<text x="55" y="400" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  katı' gibi cümlelerde EN SONDA geçen (referans) değişkeni 1 birim (veya k) kabul et,</text>
+<text x="55" y="426" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  zinciri ORADAN başlayarak kur — aradaki bir ismi ATLAMA, cümleleri TEK TEK işle.</text>
+<text x="55" y="452" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Bir işçi/musluk YARIDA katılır ya da ayrılırsa süreci İKİ AŞAMAYA böl: her aşamada</text>
+<text x="55" y="478" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  yapılan işi (oran × süre) ayrı hesapla, aşamaların toplamı TAM İŞE (yani 1'e) eşit</text>
+<text x="55" y="504" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  olmalı.</text>
+<text x="55" y="530" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Birlikte bitirme süresi, toplam oranın çarpmaya göre TERSİDİR:</text>
+<text x="85" y="632.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Süre =</text>
+<text x="233.22000000000003" y="619.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="163.68" y1="626" x2="302.76" y2="626" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="233.22000000000003" y="644.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Toplam Oran</text>
+<line x1="55" y1="730" x2="945" y2="730" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="810" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">2) DGS Tarzı Örnek Soru (İşçi/Havuz + Zincirleme Oran)</text>
+<text x="55" y="844" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir işi birlikte yapan A, B ve C işçileri vardır.</text>
+<text x="55" y="870" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A'nın 1 günde yaptığı iş, B'nin 1 günde yaptığının 1,5 katıdır; B'nin 1 günde</text>
+<text x="55" y="896" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  yaptığı iş ise C'nin 1 günde yaptığının 2 katıdır.</text>
+<text x="55" y="922" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A ve B birlikte çalışırsa bu işi 6 günde bitirmektedir. Buna göre A, B ve C üçü</text>
+<text x="55" y="948" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  birlikte çalışırsa iş kaç günde biter?</text>
+<text x="75" y="988" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A)  4,6 gün</text>
+<text x="75" y="1014" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">B)  5 gün</text>
+<text x="75" y="1040" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">C)  6 gün</text>
+<text x="75" y="1066" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D)  10 gün</text>
+<text x="75" y="1092" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">E)  18,3 gün</text>
+<text x="55" y="1132" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Çözüm:</text>
+<text x="65" y="1166" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 1: C'nin günlük iş oranı c olsun. 'B, C'nin 2 katı' → B'nin oranı 2c.</text>
+<text x="65" y="1192" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A'nın oranı, B'ninkinin 1,5 katı olduğundan: A'nın oranı = 1,5 × 2c = 3c. (Zinciri</text>
+<text x="65" y="1218" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  EN SONDAKİ C'den başlayarak kurduk.)</text>
+<text x="65" y="1244" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 2: A ve B birlikte 6 günde bitiriyor, yani oranları toplamı:</text>
+<text x="85" y="1346.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A + B = 3c + 2c = 5c =</text>
+<text x="362.8" y="1333.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="352.16" y1="1340" x2="373.44000000000005" y2="1340" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="362.8" y="1358.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">6</text>
+<text x="65" y="1384" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 3: Buradan c'yi bul:</text>
+<text x="85" y="1486.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">c =</text>
+<text x="144.87" y="1473.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="128.34" y1="1480" x2="161.4" y2="1480" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="144.87" y="1498.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">30</text>
+<text x="65" y="1524" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 4: Her işçinin oranını yazalım:</text>
+<text x="85" y="1625.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A = 3c =</text>
+<text x="192.10999999999999" y="1614.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="177.32" y1="1620" x2="206.89999999999998" y2="1620" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="192.10999999999999" y="1636.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">30</text>
+<text x="214.89999999999998" y="1625.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">=</text>
+<text x="248.22999999999996" y="1614.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="233.43999999999997" y1="1620" x2="263.02" y2="1620" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="248.22999999999996" y="1636.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">10</text>
+<text x="271.02" y="1625.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">   B = 2c =</text>
+<text x="409.75" y="1614.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="394.96" y1="1620" x2="424.53999999999996" y2="1620" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="409.75" y="1636.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">30</text>
+<text x="432.53999999999996" y="1625.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">=</text>
+<text x="465.87" y="1614.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="451.08" y1="1620" x2="480.65999999999997" y2="1620" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="465.87" y="1636.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">15</text>
+<text x="488.65999999999997" y="1625.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">   C = c =</text>
+<text x="616.8499999999999" y="1614.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="602.06" y1="1620" x2="631.64" y2="1620" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="616.8499999999999" y="1636.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">30</text>
+<text x="65" y="1664" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Üçü birlikte çalışırsa toplam oran:</text>
+<text x="85" y="1766.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A+B+C =</text>
+<text x="186.78" y="1753.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="171.12" y1="1760" x2="202.44" y2="1760" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="186.78" y="1777.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">10</text>
+<text x="210.44" y="1766.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">+</text>
+<text x="245.26" y="1753.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="229.6" y1="1760" x2="260.92" y2="1760" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="245.26" y="1777.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">15</text>
+<text x="268.92" y="1766.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">+</text>
+<text x="303.74000000000007" y="1753.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="288.08000000000004" y1="1760" x2="319.40000000000003" y2="1760" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="303.74000000000007" y="1777.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">30</text>
+<text x="327.40000000000003" y="1766.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">=</text>
+<text x="362.2200000000001" y="1753.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">6</text>
+<line x1="346.56000000000006" y1="1760" x2="377.88000000000005" y2="1760" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="362.2200000000001" y="1777.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">30</text>
+<text x="385.88000000000005" y="1766.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">=</text>
+<text x="415.12000000000006" y="1753.7" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="405.0400000000001" y1="1760" x2="425.2000000000001" y2="1760" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="415.12000000000006" y="1777.1" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="65" y="1804" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Süre = 5 gün.</text>
+<text x="55" y="1830" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Cevap: B) 5 gün</text>
+<text x="55" y="1870" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Şıkların tuzak analizi:</text>
+<text x="75" y="1896" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">A) 4,6 gün</text>
+<text x="180" y="1923" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — Zincir TERS kurulmuş: öğrenci 'A, B'nin 1,5 katı' cümlesini ters</text>
+<text x="180" y="1946" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  okuyup B'nin oranını A'nın 1,5 katı sanmış (B=1,5A). A ve B'nin toplamı yine</text>
+<text x="180" y="1969" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  6 günlük veriyle eşitlenince A ve B'nin oranları gerçek değerlerden farklı</text>
+<text x="180" y="1992" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  çıkar; yanlış zincirden hesaplanan C ile üçünün toplam süresi yaklaşık 4,6</text>
+<text x="180" y="2015" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  gün bulunur — doğru cevap olan 5 güne çok yakın olduğu için özellikle sinsi</text>
+<text x="180" y="2038" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  bir çeldiricidir.</text>
+<text x="75" y="2061" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">C) 6 gün</text>
+<text x="180" y="2088" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — C tamamen görmezden gelinmiş; soru A ve B'nin verisini tekrar okuyup</text>
+<text x="180" y="2111" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  'birlikte 6 günde bitiyor' cevabını C eklenmeden aynen yazmış. Üçüncü kişiyi</text>
+<text x="180" y="2134" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  hesaba katmayı unutmak bu tip zincirleme sorularda en sık yapılan hatadır.</text>
+<text x="75" y="2157" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">D) 10 gün</text>
+<text x="180" y="2184" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — Soru 'üçü birlikte kaç günde biter' diye sorduğu halde, sadece A'nın</text>
+<text x="180" y="2207" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  TEK BAŞINA süresi (yani A'nın oranının tersi, 10 gün) cevap sanılmış; sorunun</text>
+<text x="180" y="2230" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  son cümlesi dikkatsizce okunmuş.</text>
+<text x="75" y="2253" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">E) 18,3 gün</text>
+<text x="180" y="2280" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">YANLIŞ — 'Süre ortalaması' hatası: oranlar değil, bireysel süreler toplanıp</text>
+<text x="180" y="2303" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  3'e bölünmüş: (10+15+30) ÷ 3 ≈ 18,3. Süreler değil ORANLAR toplanır; bu</text>
+<text x="180" y="2326" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  klasik bir işlem/kavram hatasıdır.</text>
+<line x1="55" y1="2409" x2="945" y2="2409" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="2489" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">3) Sınavda Bu Soru Tipini Görünce Strateji</text>
+<text x="55" y="2523" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İpucu kelimeler: 'birlikte', 'kaç katı hızlı/yavaş', 'sırasıyla/kat kat oranı',</text>
+<text x="55" y="2549" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  'sonra katılıyor/ayrılıyor', 'havuz/depo/musluk/gider' → zincirleme oran + iş</text>
+<text x="55" y="2575" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  problemi.</text>
+<text x="55" y="2601" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İlk adım: EN SONDA (ya da en küçük/bilinmeyen) geçen kişiyi/musluğu 1 birim ya da k</text>
+<text x="55" y="2627" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  kabul et; diğerlerini bu değişken cinsinden, cümleleri TEK TEK, sırayla ORAN olarak</text>
+<text x="55" y="2653" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  yaz. Değerleri asla süre (gün/saat) cinsinden değil, MUTLAKA '1 birim zamanda</text>
+<text x="55" y="2679" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  yapılan iş' cinsinden yaz.</text>
+<text x="55" y="2705" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Sonra: Verilen 'birlikte X günde biter' bilgisini yukarıdaki Süre formülüyle</text>
+<text x="55" y="2731" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  birleştirip bir DENKLEM kur, bilinmeyeni çöz. En son adımda sorunun TAM OLARAK neyi</text>
+<text x="55" y="2757" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  istediğine bak — 'üçü birlikte mi', 'sadece biri mi', 'işin bir kısmı mı' — bu son</text>
+<text x="55" y="2783" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  kontrol D ve E şıklarındaki gibi tuzaklara düşmeni engeller.</text>
+<text x="85" y="2885.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Süre =</text>
+<text x="233.22000000000003" y="2872.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="163.68" y1="2879" x2="302.76" y2="2879" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="233.22000000000003" y="2897.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">Toplam Oran</text>
+<line x1="55" y1="2983" x2="945" y2="2983" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="3063" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">4) Öğrencilerin En Sık Düştüğü Tuzak</text>
+<text x="55" y="3097" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Zincirleme Oranı TERS Kurma Tuzağı: 3 (veya daha fazla) kişi/musluk olan sorularda</text>
+<text x="55" y="3123" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  öğrenciler genelde cümleleri sırayla değil, GÖZE ÇARPAN sayıyı ilk gördükleri isme</text>
+<text x="55" y="3149" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  yapıştırarak okur. Örneğin 'A, B'nin 2 katı; B de C'nin 3 katıdır' cümlesinde doğru</text>
+<text x="55" y="3175" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  zincir:</text>
+<text x="85" y="3257.3" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">C = k,   B = 3k,   A = 2×3k = 6k</text>
+<text x="55" y="3291" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">iken, sık yapılan hata cümleleri ayrı ayrı değil, 'ilk geçen isim küçük birimdir'</text>
+<text x="55" y="3317" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  varsayımıyla A = k, B = 2k ya da 3k gibi rastgele bir zincir kurmaktır — bu da A ile</text>
+<text x="55" y="3343" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  C'nin oranını (ve dolayısıyla tüm sonucu) tersine çevirir.</text>
+<text x="55" y="3369" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Nasıl fark edersin:</text>
+<text x="55" y="3395" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Zincirleme cümleyi gördüğünde DUR ve her alt cümleyi (A-B ilişkisi, B-C ilişkisi,</text>
+<text x="55" y="3421" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">  ...) ayrı ayrı, sadece iki değişken içerecek şekilde tek tek yaz. Her cümlede 'kimin</text>
+<text x="55" y="3447" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">  katı' ifadesindeki sayı, KATI OLAN tarafın (yani 'X katıdır' denen tarafın) daha</text>
+<text x="55" y="3473" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">  BÜYÜK olduğu anlamına gelir — 'A, B'nin 1,5 katı' → A büyük. Zinciri EN SONDAKİ</text>
+<text x="55" y="3499" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">  isimden (genelde son cümlede geçen, hiçbir şeyin 'katı' diye tanımlanmadığı isim)</text>
+<text x="55" y="3525" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">  başlatarak kurarsan sıra karışmaz.</text>
+<line x1="55" y1="3611" x2="945" y2="3611" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="3691" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">5) Sıra Sende - Pratik Soru</text>
+<text x="55" y="3725" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir havuzu dolduran musluğun 1 saatte doldurduğu miktar, boşaltan giderin 1 saatte</text>
+<text x="55" y="3751" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  boşalttığı miktarın 1,25 katıdır.</text>
+<text x="55" y="3777" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Musluk ve gider birlikte açıldığında (havuz boşken) 24 saatte doluyor. Gider</text>
+<text x="55" y="3803" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  kapalıyken SADECE musluk açılırsa havuz kaç saatte dolar?</text>
+<text x="55" y="3829" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">(Kendi çözümünü tamamlamadan aşağıdaki cevaba bakma!)</text>
+<line x1="55" y1="3877" x2="945" y2="3877" stroke="#999999" stroke-width="2" stroke-linecap="round"/>
+<rect x="55" y="3895" width="890" height="498" fill="#f6f6f6" stroke="#cccccc" stroke-width="1" rx="8"/>
+<text x="75" y="3929" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">CEVAP (spoiler):</text>
+<text x="75" y="3961" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Gider oranı d olsun. Musluk oranı = 1,25d. Net (birlikte) oran = musluk − gider:</text>
+<text x="105" y="4042.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">1,25d − d = 0,25d =</text>
+<text x="328.05" y="4031.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="313.26" y1="4037" x2="342.84" y2="4037" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="328.05" y="4053.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">24</text>
+<text x="75" y="4077" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Buradan d'yi bul:</text>
+<text x="105" y="4152.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">d =</text>
+<text x="154.14000000000001" y="4141.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="144.62" y1="4147" x2="163.66" y2="4147" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="154.14000000000001" y="4163.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">6</text>
+<text x="75" y="4187" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Musluğun oranı:</text>
+<text x="105" y="4262.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">1,25 ×</text>
+<text x="185.76000000000002" y="4251.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="176.24" y1="4257" x2="195.28" y2="4257" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="185.76000000000002" y="4273.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">6</text>
+<text x="203.28" y="4262.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">=</text>
+<text x="236.60999999999999" y="4251.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="221.82" y1="4257" x2="251.39999999999998" y2="4257" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="236.60999999999999" y="4273.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">24</text>
+<text x="75" y="4297" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Sadece musluk açıldığında geçen süre:</text>
+<text x="105" y="4372.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Süre =</text>
+<text x="191.03" y="4361.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">24</text>
+<line x1="176.24" y1="4367" x2="205.82" y2="4367" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="191.03" y="4383.15" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="213.82" y="4372.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">= 4,8 saat</text>
+<line x1="55" y1="4463" x2="945" y2="4463" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="4503" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">Yarınki konu: Oran-Orantı</text>
+</svg>
