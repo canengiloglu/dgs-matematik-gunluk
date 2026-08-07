@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="3060" viewBox="0 0 1000 3060">
+<rect x="0" y="0" width="1000" height="3060" fill="#ffffff"/>
+<rect x="55" y="2723.5999999999995" width="890" height="253.1999999999989" fill="#f6f6f6" stroke="#cccccc" stroke-width="1" rx="8"/>
+<text x="55" y="60" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="30" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">DGS Matematik Günlüğü</text>
+<text x="55" y="92" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="normal" font-style="normal" text-anchor="start" fill="#555555">7 Ağustos 2026  |  DGS 19 Temmuz 2026 idi (19 gün önce) — tekrar/pratik günlüğü</text>
+<line x1="55" y1="131" x2="945" y2="131" stroke="#cccccc" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="165" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="24" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a56db">Konu: Rasyonel Sayılar</text>
+<text x="55" y="218" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">1) Kısa Kural Hatırlatması</text>
+<text x="55" y="280.25" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Rasyonel sayı: </text>
+<text x="251.70000000000002" y="268.35" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a</text>
+<line x1="242.18" y1="274.3" x2="261.22" y2="274.3" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="251.70000000000002" y="290.45" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">b</text>
+<text x="269.22" y="280.25" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> biçiminde yazılabilen sayılardır (a, b tam sayı, b ≠ 0);</text>
+<text x="55" y="327.85" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  ondalık açılımı SONLU ya da DEVİRLİDİR. Örnek: </text>
+<text x="588.98" y="315.95000000000005" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="579.46" y1="321.90000000000003" x2="598.5" y2="321.90000000000003" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="588.98" y="338.05" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="606.5" y="327.85" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = 0,333...</text>
+<text x="55" y="354.20000000000005" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Kesirlerde TOPLAMA/ÇIKARMA: paydalar EŞİTLENMEDEN (ortak payda</text>
+<text x="55" y="380.20000000000005" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  bulunmadan) doğrudan işlem yapılamaz:</text>
+<text x="95.64" y="416.6500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="85" y1="423.30000000000007" x2="106.28" y2="423.30000000000007" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="95.64" y="441.3500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="114.28" y="429.95000000000005" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> + </text>
+<text x="168.26" y="416.6500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="157.62" y1="423.30000000000007" x2="178.9" y2="423.30000000000007" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="168.26" y="441.3500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<text x="186.9" y="429.95000000000005" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="246.77" y="416.6500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<line x1="230.24" y1="423.30000000000007" x2="263.3" y2="423.30000000000007" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="246.77" y="441.3500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">12</text>
+<text x="271.3" y="429.95000000000005" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> + </text>
+<text x="331.16999999999996" y="416.6500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="314.64" y1="423.30000000000007" x2="347.7" y2="423.30000000000007" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="331.16999999999996" y="441.3500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">12</text>
+<text x="355.7" y="429.95000000000005" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="415.56999999999994" y="416.6500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">7</text>
+<line x1="399.03999999999996" y1="423.30000000000007" x2="432.09999999999997" y2="423.30000000000007" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="415.56999999999994" y="441.3500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">12</text>
+<text x="55" y="459.4000000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">- Kesirlerde ÇARPMA: pay × pay / payda × payda. BÖLME: ikinci kesrin</text>
+<text x="55" y="485.4000000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">  TERSİYLE çarpılır:</text>
+<text x="95.64" y="521.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="85" y1="528.5000000000001" x2="106.28" y2="528.5000000000001" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="95.64" y="546.5500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="114.28" y="535.1500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> ÷ </text>
+<text x="168.26" y="521.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<line x1="157.62" y1="528.5000000000001" x2="178.9" y2="528.5000000000001" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="168.26" y="546.5500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="186.9" y="535.1500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="240.88" y="521.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="230.24" y1="528.5000000000001" x2="251.52" y2="528.5000000000001" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="240.88" y="546.5500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="259.52" y="535.1500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × </text>
+<text x="313.49999999999994" y="521.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="302.85999999999996" y1="528.5000000000001" x2="324.14" y2="528.5000000000001" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="313.49999999999994" y="546.5500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<text x="332.14" y="535.1500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="392.01" y="521.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">10</text>
+<line x1="375.47999999999996" y1="528.5000000000001" x2="408.53999999999996" y2="528.5000000000001" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="392.01" y="546.5500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">12</text>
+<text x="416.53999999999996" y="535.1500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = </text>
+<text x="470.5199999999999" y="521.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="459.87999999999994" y1="528.5000000000001" x2="481.15999999999997" y2="528.5000000000001" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="470.5199999999999" y="546.5500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">6</text>
+<text x="55" y="564.6000000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">- ÖNEMLİ (DGS'nin en sık kullandığı tuzak yapısı): 'KALANIN kesri' ile</text>
+<text x="55" y="590.6000000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">  'TOPLAMIN (bütünün) kesri' FARKLI miktarlardır — hangi kesrin hangi</text>
+<text x="55" y="616.6000000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">  miktar üzerinden alındığına dikkat et!</text>
+<line x1="55" y1="674.6000000000001" x2="945" y2="674.6000000000001" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="714.6000000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">2) DGS Tarzı Örnek Soru (Rasyonel Sayılar + Ardışık Kesir/Oran)</text>
+<text x="55" y="776.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir öğrenci, elindeki paranın </text>
+<text x="388.71999999999997" y="764.95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="379.2" y1="770.9000000000001" x2="398.24" y2="770.9000000000001" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="388.71999999999997" y="787.0500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="406.24" y="776.8500000000001" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">’ini bir kitaba harcıyor. Kalan paranın</text>
+<text x="64.52" y="812.55" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="55" y1="818.5" x2="74.03999999999999" y2="818.5" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="64.52" y="834.65" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="82.03999999999999" y="824.45" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">’ünü de bir deftere harcadıktan sonra elinde 80 TL kalıyor. Buna</text>
+<text x="55" y="850.8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">göre öğrencinin başlangıçta kaç TL parası vardı?</text>
+<text x="55" y="882.8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 80      B) 120      C) 200      D) 300      E) 400</text>
+<text x="55" y="926.8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Çözüm:</text>
+<text x="65" y="952.8" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 1: Başlangıç para P olsun.</text>
+<text x="65" y="1002.55" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 2: Kitaba harcanan: </text>
+<text x="378.14" y="989.25" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="367.5" y1="995.9" x2="388.78" y2="995.9" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="378.14" y="1013.9499999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="396.78" y="1002.55" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P . Kalan para: P − </text>
+<text x="651.02" y="989.25" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="640.38" y1="995.9" x2="661.66" y2="995.9" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="651.02" y="1013.9499999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="669.66" y="1002.55" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P = </text>
+<text x="735.42" y="989.25" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="724.78" y1="995.9" x2="746.06" y2="995.9" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="735.42" y="1013.9499999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="754.06" y="1002.55" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P</text>
+<text x="65" y="1055.75" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 3: Deftere, KALANIN </text>
+<text x="378.14" y="1042.4499999999998" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="367.5" y1="1049.1" x2="388.78" y2="1049.1" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="378.14" y="1067.1499999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="396.78" y="1055.75" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">’ü harcanıyor (toplamın değil!):</text>
+<text x="95.64" y="1095.6499999999996" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="85" y1="1102.2999999999997" x2="106.28" y2="1102.2999999999997" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="95.64" y="1120.3499999999997" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="114.28" y="1108.9499999999998" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × </text>
+<text x="168.26" y="1095.6499999999996" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="157.62" y1="1102.2999999999997" x2="178.9" y2="1102.2999999999997" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="168.26" y="1120.3499999999997" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="186.9" y="1108.9499999999998" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P = </text>
+<text x="252.66000000000003" y="1095.6499999999996" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="242.02" y1="1102.2999999999997" x2="263.3" y2="1102.2999999999997" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="252.66000000000003" y="1120.3499999999997" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="271.3" y="1108.9499999999998" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P</text>
+<text x="65" y="1162.1499999999996" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 4: Son kalan: </text>
+<text x="307.46" y="1148.8499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="296.82" y1="1155.4999999999995" x2="318.1" y2="1155.4999999999995" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="307.46" y="1173.5499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="326.1" y="1162.1499999999996" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P − </text>
+<text x="391.86" y="1148.8499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="381.22" y1="1155.4999999999995" x2="402.5" y2="1155.4999999999995" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="391.86" y="1173.5499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="410.5" y="1162.1499999999996" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P = </text>
+<text x="476.26" y="1148.8499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="465.62" y1="1155.4999999999995" x2="486.9" y2="1155.4999999999995" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="476.26" y="1173.5499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="494.9" y="1162.1499999999996" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P</text>
+<text x="65" y="1215.3499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Adım 5: </text>
+<text x="177.88" y="1202.0499999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="167.24" y1="1208.6999999999994" x2="188.52" y2="1208.6999999999994" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="177.88" y="1226.7499999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="196.52" y="1215.3499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">P = 80  →  P = 80 × </text>
+<text x="450.76" y="1202.0499999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="440.12" y1="1208.6999999999994" x2="461.4" y2="1208.6999999999994" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="450.76" y="1226.7499999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<text x="469.4" y="1215.3499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = 200</text>
+<text x="55" y="1254.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Cevap: C) 200</text>
+<text x="55" y="1298.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">Neden diğer şıklar yanlış (ÖSYM tarzı çeldiriciler):</text>
+<text x="65" y="1324.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 80  →  Son kalan miktar (80 TL) doğrudan başlangıç parası sanılmış;</text>
+<text x="65" y="1350.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       soru 'başlangıçtaki' parayı soruyor, en sondaki kalanı değil</text>
+<text x="65" y="1376.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       (dikkatsiz okuma).</text>
+<text x="65" y="1402.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">B) 120 →  İşlem sadece kitap harcamasından sonraki kalanla (200'ün</text>
+<text x="65" y="1428.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       beşte üçü = 120) durdurulmuş; defter harcaması hesaba</text>
+<text x="65" y="1454.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       katılmadan cevap yazılmış (eksik adım).</text>
+<text x="65" y="1480.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D) 300 →  'Kalanın üçte biri' ifadesi yanlışlıkla 'başlangıcın üçte</text>
+<text x="65" y="1506.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       biri' olarak okunmuş; iki harcama da doğrudan P üzerinden</text>
+<text x="65" y="1532.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       toplanıp yanlış payda ile çözülmüş (yanlış okuma hatası).</text>
+<text x="65" y="1558.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">E) 400 →  Son kalan kesri (beşte iki) yerine yanlışlıkla beşte bir</text>
+<text x="65" y="1584.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       alınmış (pay ile payda karıştırılmış); bu işlem hatasıyla</text>
+<text x="65" y="1610.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">       P = 400 bulunmuş.</text>
+<line x1="55" y1="1668.7999999999993" x2="945" y2="1668.7999999999993" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="1708.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">3) Sınavda Bu Soru Tipini Görünce Strateji</text>
+<text x="55" y="1749.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İpucu kelimeler: 'kalanın ... kesri', 'geriye kalanın', 'artan kısmının'</text>
+<text x="55" y="1775.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">→ bu ifadeler ARDIŞIK (çok aşamalı) kesir problemine işaret eder; her</text>
+<text x="55" y="1801.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">aşama BİR ÖNCEKİ kalan üzerinden hesaplanır, başlangıç değeri üzerinden</text>
+<text x="55" y="1827.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">DEĞİL.</text>
+<text x="55" y="1863.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">İlk adım: Bilinmeyeni (P, x, D gibi) tanımla; her cümleyi TEK TEK okuyup</text>
+<text x="55" y="1889.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">o anki işlemin HANGİ miktar üzerinden yapıldığını (başlangıç mı, bir</text>
+<text x="55" y="1915.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">önceki kalan mı) yaz. Kesirleri sona kadar SADELEŞTİRME, adım adım</text>
+<text x="55" y="1941.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">ilerle.</text>
+<text x="55" y="1977.7999999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Genel formül (kalan hesabı):</text>
+<text x="85" y="2027.5499999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Kalan = Bütün − </text>
+<text x="292.12" y="2014.249999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a</text>
+<line x1="281.48" y1="2020.8999999999992" x2="302.76" y2="2020.8999999999992" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="292.12" y="2038.9499999999991" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">b</text>
+<text x="310.76" y="2027.5499999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × Bütün  =  (1 − </text>
+<text x="541.4399999999999" y="2014.249999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">a</text>
+<line x1="530.8" y1="2020.8999999999992" x2="552.0799999999999" y2="2020.8999999999992" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="541.4399999999999" y="2038.9499999999991" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">b</text>
+<text x="560.0799999999999" y="2027.5499999999993" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="19" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">) × Bütün</text>
+<line x1="55" y1="2088.999999999999" x2="945" y2="2088.999999999999" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="2128.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">4) Öğrencilerin En Sık Düştüğü Tuzak</text>
+<text x="55" y="2169.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Hata kalıbı: Öğrenci, ikinci (veya üçüncü) aşamadaki kesri HER ZAMAN</text>
+<text x="55" y="2195.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">başlangıç değeri üzerinden hesaplar; oysa çoğu DGS sorusunda ikinci kesir</text>
+<text x="55" y="2221.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">BİR ÖNCEKİ ADIMDA KALAN miktar üzerinden alınır. Bu ikisini karıştırmak,</text>
+<text x="55" y="2247.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yanlış (ve genelde daha büyük) bir başlangıç değeri bulunmasına yol açar.</text>
+<text x="55" y="2283.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Nasıl fark edilir: Sorudaki 'kalanın', 'geriye kalanın', 'artan kısmının'</text>
+<text x="55" y="2309.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">gibi ifadeleri gördüğünde, bir önceki adımın SONUCUNU yeni bir 'bütün'</text>
+<text x="55" y="2335.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">gibi düşün ve kesri O değer üzerinden uygula. Her aşamayı ayrı satırda</text>
+<text x="55" y="2361.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">yazarak (P → kalan1 → kalan2) karışıklığı engelle.</text>
+<line x1="55" y1="2419.999999999999" x2="945" y2="2419.999999999999" stroke="#e5e5e5" stroke-width="2" stroke-linecap="round"/>
+<text x="55" y="2459.999999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="21" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">5) Sıra Sende - Pratik Soru</text>
+<text x="55" y="2522.249999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Bir su deposundaki suyun </text>
+<text x="336.02" y="2510.3499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="326.5" y1="2516.2999999999993" x2="345.54" y2="2516.2999999999993" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="336.02" y="2532.4499999999994" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="353.54" y="2522.249999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">’i sulama için kullanılıyor. Kalan suyun </text>
+<text x="803.2" y="2510.3499999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="793.6800000000001" y1="2516.2999999999993" x2="812.72" y2="2516.2999999999993" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="803.2" y="2532.4499999999994" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="820.72" y="2522.249999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">’i</text>
+<text x="55" y="2548.5999999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">başka bir depoya aktarılıyor. Geriye 150 litre su kaldığına göre,</text>
+<text x="55" y="2574.5999999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="17" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">deponun başlangıçtaki su miktarı kaç litredir?</text>
+<text x="55" y="2606.5999999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="18" font-weight="bold" font-style="normal" text-anchor="start" fill="#1a1a1a">A) 200      B) 250      C) 320      D) 400      E) 500</text>
+<text x="55" y="2644.5999999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">(Kendi çözümünü tamamlamadan aşağıdaki cevaba bakma!)</text>
+<line x1="55" y1="2699.5999999999995" x2="945" y2="2699.5999999999995" stroke="#999999" stroke-width="2" stroke-linecap="round"/>
+<text x="65" y="2757.5999999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="16" font-weight="bold" font-style="normal" text-anchor="start" fill="#b3261e">CEVAP (spoiler):</text>
+<text x="65" y="2782.5999999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D = başlangıç su miktarı.</text>
+<text x="65" y="2825.9749999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Kullanılan: </text>
+<text x="197.0" y="2815.124999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="188.32" y1="2820.5499999999993" x2="205.68" y2="2820.5499999999993" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="197.0" y="2835.274999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="213.68" y="2825.9749999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D , Kalan: D − </text>
+<text x="374.51000000000005" y="2815.124999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="365.83000000000004" y1="2820.5499999999993" x2="383.19000000000005" y2="2820.5499999999993" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="374.51000000000005" y="2835.274999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="391.19000000000005" y="2825.9749999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D = </text>
+<text x="446.31000000000006" y="2815.124999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="437.63000000000005" y1="2820.5499999999993" x2="454.99000000000007" y2="2820.5499999999993" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="446.31000000000006" y="2835.274999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="462.99000000000007" y="2825.9749999999995" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D</text>
+<text x="65" y="2869.374999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Aktarılan: </text>
+<text x="187.39" y="2858.5249999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">2</text>
+<line x1="178.70999999999998" y1="2863.949999999999" x2="196.07" y2="2863.949999999999" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="187.39" y="2878.674999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<text x="204.07" y="2869.374999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> × </text>
+<text x="249.57999999999998" y="2858.5249999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="240.89999999999998" y1="2863.949999999999" x2="258.26" y2="2863.949999999999" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="249.57999999999998" y="2878.674999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="266.26" y="2869.374999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D = </text>
+<text x="321.38" y="2858.5249999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="312.7" y1="2863.949999999999" x2="330.06" y2="2863.949999999999" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="321.38" y="2878.674999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<text x="338.06" y="2869.374999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D</text>
+<text x="65" y="2912.7749999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">Son kalan: </text>
+<text x="187.39" y="2901.9249999999984" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">5</text>
+<line x1="178.70999999999998" y1="2907.3499999999985" x2="196.07" y2="2907.3499999999985" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="187.39" y="2922.0749999999985" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="204.07" y="2912.7749999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D − </text>
+<text x="259.19" y="2901.9249999999984" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">1</text>
+<line x1="250.51" y1="2907.3499999999985" x2="267.87" y2="2907.3499999999985" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="259.19" y="2922.0749999999985" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">4</text>
+<text x="275.87" y="2912.7749999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D = </text>
+<text x="330.99" y="2901.9249999999984" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<line x1="322.31" y1="2907.3499999999985" x2="339.67" y2="2907.3499999999985" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="330.99" y="2922.0749999999985" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<text x="347.67" y="2912.7749999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a">D = 150  →  D = 150 × </text>
+<text x="575.77" y="2901.9249999999984" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">8</text>
+<line x1="567.09" y1="2907.3499999999985" x2="584.45" y2="2907.3499999999985" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<text x="575.77" y="2922.0749999999985" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1a1a1a">3</text>
+<text x="592.45" y="2912.7749999999987" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1a1a1a"> = 400</text>
+<text x="65" y="2942.7999999999984" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#0f7b3f">Doğru şık: D) 400</text>
+<text x="55" y="3006.7999999999984" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="15" font-weight="normal" font-style="italic" text-anchor="start" fill="#555555">Yarınki konu: Denklem / Eşitsizlik</text>
+</svg>
